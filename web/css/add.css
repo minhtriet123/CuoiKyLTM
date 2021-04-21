@@ -1,0 +1,170 @@
+.u-section-1 {
+  background-image: linear-gradient(#adcce9, #e68387);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 758px;
+}
+
+.u-section-1 .u-text-1 {
+  text-shadow: 2px 2px 8px rgba(128,128,128,1);
+  margin: 19px auto 0;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 105px;
+  height: 113px;
+  margin: -21px 120px 0 auto;
+}
+
+.u-section-1 .u-shape-2 {
+  width: 250px;
+  height: 188px;
+  margin: 39px auto 0 141px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 581px;
+  width: 570px;
+  margin: -319px auto 0;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-6 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-shape-3 {
+  width: 33px;
+  height: 33px;
+  margin: -254px 252px 0 auto;
+}
+
+.u-section-1 .u-shape-4 {
+  width: 67px;
+  height: 67px;
+  margin: -108px 165px 0 auto;
+}
+
+.u-section-1 .u-shape-5 {
+  width: 83px;
+  height: 65px;
+  margin: -208px 120px 0 auto;
+}
+
+.u-section-1 .u-shape-6 {
+  width: 45px;
+  height: 45px;
+  margin: 133px auto 0 127px;
+}
+
+.u-section-1 .u-shape-7 {
+  width: 52px;
+  height: 63px;
+  margin: 25px auto 0 171px;
+}
+
+.u-section-1 .u-shape-8 {
+  width: 52px;
+  height: 63px;
+  margin: -425px auto 0 75px;
+}
+
+.u-section-1 .u-shape-9 {
+  width: 32px;
+  height: 32px;
+  margin: -15px auto 0 127px;
+}
+
+.u-section-1 .u-shape-10 {
+  width: 52px;
+  height: 48px;
+  margin: -48px auto 60px 171px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 126px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    height: 94px;
+    margin-top: 10px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    margin-top: 27px;
+  }
+
+  .u-section-1 .u-shape-5 {
+    height: 45px;
+    margin-top: -188px;
+  }
+
+  .u-section-1 .u-shape-7 {
+    height: 33px;
+  }
+
+  .u-section-1 .u-shape-10 {
+    height: 45px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-shape-1 {
+    margin-top: 23px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    margin-left: 90px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-form-group-1 {
+    width: 100%;
+  }
+
+  .u-section-1 .u-form-group-2 {
+    width: 100%;
+  }
+
+  .u-section-1 .u-form-group-3 {
+    width: 100%;
+  }
+
+  .u-section-1 .u-form-group-4 {
+    width: 100%;
+  }
+
+  .u-section-1 .u-form-group-5 {
+    width: 100%;
+  }
+
+  .u-section-1 .u-form-group-6 {
+    width: 100%;
+  }
+
+  .u-section-1 .u-form-group-7 {
+    width: 100%;
+  }
+}
